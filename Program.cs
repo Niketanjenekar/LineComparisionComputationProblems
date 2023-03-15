@@ -7,7 +7,8 @@ namespace LineComparisionProblems
         public static void Main(String[] args)
         {
             //WelcomeToLineComputationProblem.WelcometoLineComputation();
-            LineComparisionProblem_UseCase1.LineComparisionProblemUC1();
+            //LineComparisionProblem_UseCase1.LineComparisionProblemUC1();
+            EqualityOfTwoLines_UseCase2.EqualityOfTwoLines_UC1();
         }
     }
 }
