@@ -8,7 +8,8 @@ namespace LineComparisionProblems
         {
             //WelcomeToLineComputationProblem.WelcometoLineComputation();
             //LineComparisionProblem_UseCase1.LineComparisionProblemUC1();
-            EqualityOfTwoLines_UseCase2.EqualityOfTwoLines_UC1();
+            //EqualityOfTwoLines_UseCase2.EqualityOfTwoLines_UC1();
+            ComparisionOfLines_Usecase3.ComparisonofLines_UC3();
         }
     }
 }
